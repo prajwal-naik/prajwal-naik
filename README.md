@@ -1,6 +1,6 @@
 # Hi I'm Prajwal 👋
 
-Hey there! I'm a CS graduate from PES University and currently working as a software engineer at Hewlett Packard Enterprise.   
+Hey there! I'm a CS graduate student at The University of Colorado Boulder and formerly a software engineer at Hewlett Packard Enterprise.   
 I'm really passionate about natural language processing and web technologies.  
 So, if you're interested in teaming up or just want to chat about these topics, feel free to hit me up!  :)  
 
